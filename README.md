@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Neural Network Aimbot](google.com)
 
-- 📫 How to reach me **Hafez#6866**
+- 📫 reach me on discord **Hafez#6866**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
