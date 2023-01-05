@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hafez Alaa</h1>
 <h3 align="center">A passionate frontend developer from Jordan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihafez&label=Profile%20views&color=0e75b6&style=flat" alt="ihafez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafyzwithawhy&label=Profile%20views&color=0e75b6&style=flat" alt="hafyzwithawhy" /> </p>
 
 - 🔭 I’m currently working on [Neural Network Aimbot](x)
 
